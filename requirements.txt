@@ -1,0 +1,7 @@
+Flask
+gunicorn
+requests
+sentence-transformers
+msal
+python-dotenv
+openai
